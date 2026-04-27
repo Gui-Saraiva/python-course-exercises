@@ -1,0 +1,22 @@
+🎯 Number Guessing Game in Python
+A simple game where the player tries to guess a number between 0 and 10 chosen by the computer.
+
+On each attempt, the program tells if the correct number is higher or lower. At the end, it shows how many attempts were needed to guess correctly.
+
+🧠 Concepts Practiced
+Loop structure (while) Conditional statements (if / elif) Random number generation (randint) User input (input) Attempt counter
+
+🚀 Goal
+Practice programming logic and basic Python structures.
+
+BR Português----------------------------------------------------------
+🎯 Jogo de Adivinhação em Python
+Jogo simples onde o jogador tenta adivinhar um número entre 0 e 10 escolhido pelo computador.
+
+A cada tentativa, o programa informa se o número correto é maior ou menor. No final, mostra quantas tentativas foram necessárias para acertar.
+
+🧠 Conceitos praticados
+Estrutura de repetição (while) Condições (if / elif) Geração de número aleatório (randint) Entrada de dados (input) Contador de tentativas
+
+🚀 Objetivo
+Praticar lógica de programação e estruturas básicas do Python.

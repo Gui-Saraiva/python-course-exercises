@@ -1,0 +1,45 @@
+🧮 Operations Menu in Python
+A simple program that reads two numbers and allows the user to choose operations through an interactive menu.
+
+🧠 How it works:
+- The user can choose to:
+- Add the two numbers
+- Multiply the two numbers
+- Check which number is greater
+- Enter new numbers
+- Exit the program The menu keeps running until the user chooses to exit.
+
+🚀 Concepts Practiced:
+- Loop structure (while)
+- Conditional statements (if / elif / else)
+- User input (input)
+- Basic mathematical operations
+- Interactive menu
+- Terminal color formatting
+
+🎯 Goal:
+Practice programming logic and control flow in Python.
+
+BR Português ----------------------------------------------------
+🧮 Menu de Operações em Python
+Programa simples que lê dois números e permite ao usuário escolher operações através de um menu interativo.
+
+🧠 Como funciona:
+- O usuário pode escolher entre:
+- Somar os dois números
+- Multiplicar os dois números
+- Ver qual número é maior
+- Digitar novos números
+- Sair do programa
+- O menu continua aparecendo até o usuário escolher sair.
+
+🚀 Conceitos praticados:
+- Estrutura de repetição (while)
+- Estruturas condicionais (if / elif / else)
+- Entrada de dados (input)
+- Operações matemáticas básicas
+- Uso de menu interativo
+- Formatação com cores no terminal
+
+🎯 Objetivo:
+Praticar lógica de programação e controle de fluxo em Python.

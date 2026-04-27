@@ -1,0 +1,41 @@
+🔢 Fibonacci Sequence
+This program generates the Fibonacci sequence based on the number of terms provided by the user.
+After displaying the initial terms, the user can continue requesting more terms, and the sequence will continue from where it stopped.
+
+## 🧠 How it works
+- The program starts with the first two terms (0 and 1)
+- The user enters how many terms they want to see
+- The sequence is generated dynamically
+- The user can request more terms or stop by entering 0
+
+## 🚀 Concepts Practiced:
+- Loop structures (while)
+- Nested loops
+- Flow control
+- Variable updates
+- Fibonacci sequence logic
+
+## 🎯 Goal:
+Practice programming logic using a mathematical sequence with continuous user interaction.
+
+## BR Português ----------------------
+
+Sequência de Fibonacci
+Este programa gera a sequência de Fibonacci com base na quantidade de termos informada pelo usuário.
+Após exibir os primeiros termos, o usuário pode continuar solicitando mais termos, e a sequência segue de onde parou.
+
+## 🧠 Como funciona:
+- O programa inicia com os dois primeiros termos (0 e 1)
+- O usuário informa quantos termos deseja visualizar
+- A sequência é gerada dinamicamente
+- O usuário pode pedir mais termos ou encerrar digitando 0
+                   
+## 🚀 Conceitos praticados:
+- Estruturas de repetição (while)
+- Loops aninhados
+- Controle de fluxo
+- Atualização de variáveis
+- Lógica da sequência de Fibonacci
+                           
+## 🎯 Objetivo:
+Praticar lógica de programação utilizando uma sequência matemática com interação contínua do usuário.

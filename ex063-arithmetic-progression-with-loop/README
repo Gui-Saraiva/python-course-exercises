@@ -1,0 +1,29 @@
+🔢 Arithmetic Progression in Python
+A program that generates an Arithmetic Progression (AP) based on a starting value and a common difference provided by the user.
+
+The user can choose how many terms to display and continue requesting more terms until deciding to stop.
+
+🧠 How it works
+The user enters the first term and the common difference The program displays the first 10 terms Then it asks how many more terms the user wants to see The sequence continues from where it stopped until the user enters 0
+
+🚀 Concepts Practiced
+Loop structures (while) Nested loops Flow control Counters and accumulators User input (input)
+
+🎯 Goal
+Practice programming logic and repetition control with continuous user interaction.
+
+BR Português -------------------------------------------
+🔢 Progressão Aritmética em Python
+
+Programa que gera uma Progressão Aritmética (PA) a partir do primeiro termo e da razão informados pelo usuário.
+
+O usuário pode escolher quantos termos deseja visualizar e continuar pedindo mais termos até decidir parar.
+
+🧠 Como funciona
+O usuário informa o primeiro termo e a razão da PA O programa mostra os 10 primeiros termos Em seguida, pergunta quantos termos a mais deseja ver A sequência continua de onde parou até o usuário digitar 0
+
+🚀 Conceitos praticados
+Estruturas de repetição (while) Loops aninhados Controle de fluxo Contadores e acumuladores Entrada de dados (input)
+
+🎯 Objetivo
+Praticar lógica de programação e controle de repetição com interação contínua do usuário.

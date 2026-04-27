@@ -1,0 +1,27 @@
+##US English-------------------
+
+Prime Number Checker in Python
+
+This program reads an integer and determines whether it is a prime number.
+
+Features User input handling Checks if a number is prime Displays all divisors Highlights divisors using ANSI colors Shows total number of divisors How it works
+
+The program reads a number and checks how many times it can be divided without remainder. If it has exactly two divisors (1 and itself), it is considered a prime number.
+
+How to run
+
+python file_name.py
+
+##BR Português-------------------
+
+Verificador de Número Primo em Python
+
+Este programa lê um número inteiro e informa se ele é ou não um número primo.
+
+Funcionalidades Entrada de dados pelo usuário Verificação de número primo Exibição de todos os divisores Destaque dos divisores com cores ANSI Contagem total de divisores Como funciona
+
+O programa analisa quantas vezes o número pode ser dividido sem resto. Se houver exatamente dois divisores (1 e ele mesmo), o número é considerado primo.
+
+Como executar
+
+python nome_do_arquivo.py

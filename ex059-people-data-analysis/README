@@ -1,0 +1,47 @@
+👥 People Data Analysis in Python
+This Python project reads the name, age, and gender of 4 people and performs simple analysis based on the provided data.
+
+📌 What the program does
+The user enters data for 4 people, and the program displays:
+- The average age of the group
+- The name and age of the oldest man
+- How many women are under 20 years old
+
+🧠 What was practiced in this project:
+- Loop structures (for)
+- Conditional statements (if / else)
+- Accumulators and counters
+- Value comparison
+- User input handling
+                          
+🎯 Objective:
+This project was developed to practice Python programming logic and the use of basic decision and loop structures.
+
+🚀 How to run:
+python main.py
+
+## BR Portugês---------------------------------------------------------------------------------------------------------------------
+
+# 👥 Cadastro e Análise de Pessoas em Python
+
+Este projeto em Python lê o nome, idade e sexo de 4 pessoas e realiza algumas análises simples com base nas informações fornecidas.
+
+## 📌 **O que o programa faz
+O usuário informa os dados de 4 pessoas e o programa exibe:
+- A média de idade do grupo  
+- O nome do homem mais velho e sua idade  
+- Quantas mulheres têm menos de 20 anos  
+
+## 🧠 **O que foi praticado neste projeto**
+- Estruturas de repetição (for)
+- Estruturas condicionais (if / else)
+- Acumuladores e contadores
+- Comparação de valores
+- Entrada de dados do usuário
+
+## 🎯 Objetivo
+Este projeto foi desenvolvido para praticar lógica de programação em Python e o uso de estruturas básicas de decisão e repetição.
+
+## 🚀 **Como executar**
+```bash
+python main.py

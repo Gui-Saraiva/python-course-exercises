@@ -1,0 +1,47 @@
+##US English-------------------
+
+Group Age Checker in Python
+
+This Python program reads the birth year of 7 people and shows how many are adults (18 or older) and how many are underage.
+
+Concepts Practiced: Loops (for) Conditionals (if/else) Counters User input handling Date handling with datetime
+
+How it works: The user enters the birth year of each person.
+
+The program calculates the age based on the current year and classifies each person as: Adult (18 years or older) Underage
+
+Example: In which year was person 1 born? 2000 In which year was person 2 born? 2010 ...
+
+We have 4 adults. We have 3 people under 18.
+
+Purpose
+
+This exercise focuses on practicing programming logic and basic Python structures.
+
+##BR Português-------------------
+
+Verificador de Maioridade de um Grupo de Pessoas
+
+Este programa em Python lê o ano de nascimento de 7 pessoas e informa quantas já atingiram a maioridade (18 anos ou mais) e quantas ainda são menores de idade.
+
+Conceitos praticados:
+
+Estrutura de repetição (for)
+Condicionais (if/else)
+Contadores
+Entrada de dados com input
+Manipulação de datas com datetime
+Como funciona:
+
+O usuário informa o ano de nascimento de cada pessoa. O programa calcula a idade com base no ano atual e classifica automaticamente como:
+
+Maior de idade (18 anos ou mais)
+Menor de idade
+Exemplo de uso
+Em que ano nasceu a 1ª pessoa? 2000 Em que ano nasceu a 2ª pessoa? 2010 ...
+
+Temos 4 pessoas maiores de idade. Temos 3 menores de 18 anos.
+
+Objetivo:
+
+Exercício focado na prática de lógica de programação e estruturas básicas em Python.

@@ -1,0 +1,25 @@
+🔢 Factorial Calculator in Python
+A simple program that calculates the factorial of a number. It includes two different implementations using loops: one with a while loop and another with a for loop.
+
+🧠 How it works
+The user enters a number The program calculates its factorial It also displays the full calculation (e.g., 5! = 5 x 4 x 3 x 2 x 1 = 120)
+
+🚀 Concepts Practiced
+Loop structures (while and for) Conditional logic Accumulator pattern User input (input) Output formatting
+
+🎯 Goal
+Practice programming logic and understand different ways to solve the same problem using loops.
+
+##BR Português --------------------------------------------
+
+🔢 Calculadora de Fatorial em Python
+Programa simples que calcula o fatorial de um número. O projeto inclui duas implementações usando laços de repetição: uma com while e outra com for.
+
+🧠 Como funciona
+O usuário digita um número O programa calcula seu fatorial Também exibe o cálculo completo (ex: 5! = 5 x 4 x 3 x 2 x 1 = 120)
+
+🚀 Conceitos praticados
+Estruturas de repetição (while e for) Lógica condicional Acumulador Entrada de dados (input) Formatação de saída
+
+🎯 Objetivo
+Praticar lógica de programação e entender diferentes formas de resolver o mesmo problema usando loops.

@@ -1,0 +1,49 @@
+Payment Simulator in Python 💰
+This is a simple Python project that simulates different payment conditions for a product purchase.
+
+📌 How it works
+The user enters the product price and selects a payment option:
+- Cash or check: 10% discount
+- Cash on card: 5% discount
+- Up to 2 installments: no interest
+- 3 or more installments: 20% interest
+- The program calculates the final price based on the selected option.
+
+🧠 What I practiced in this project:
+- Conditional structures (if / elif / else)
+- Mathematical operations with percentages
+- User input handling
+- Basic logic for real-life situations
+                          
+🚀 How to run:
+python main.py
+
+🎯 Purpose:
+This project was created for learning Python logic and decision-making structures.
+
+##BR Português------------------------------------------------------------------------------------------------
+
+# Simulador de Pagamento em Python 💰
+
+Este é um projeto simples em Python que simula diferentes condições de pagamento para a compra de um produto.
+
+## 📌 Como funciona
+O usuário informa o valor do produto e escolhe uma forma de pagamento:
+- À vista ou cheque: 10% de desconto  
+- À vista no cartão: 5% de desconto  
+- Até 2 parcelas: sem juros  
+- 3 ou mais parcelas: 20% de juros
+- O programa calcula o valor final de acordo com a opção escolhida.
+
+## 🧠 O que pratiquei neste projeto:
+- Estruturas condicionais (if / elif / else)
+- Operações matemáticas com porcentagem
+- Entrada de dados do usuário
+- Lógica básica de situações do dia a dia
+
+## 🚀 Como executar
+```bash
+python main.py
+
+🎯 Objetivo
+Este projeto foi criado para praticar lógica de programação em Python e estruturas de decisão.

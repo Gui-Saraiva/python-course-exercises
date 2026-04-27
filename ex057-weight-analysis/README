@@ -1,0 +1,56 @@
+##US English-------------------
+
+Weight Analysis
+
+This Python program reads the weight of 5 people and identifies the highest and lowest values, including which person had each result.
+
+Concepts Practiced:
+-Loops (for) 
+-Conditionals (if/else) 
+-Value comparison (maximum and minimum) 
+-State tracking (storing results in variables) 
+-User input handling 
+-Basic data analysis (finding max and min values)
+
+How It Works: 
+The program asks the user to enter the weight of 5 people, one by one.
+During execution, it: Stores the highest weight entered Stores the lowest weight entered Tracks which person had the highest and lowest weight
+
+Example Usage -Enter the weight of person 1: 70 -Enter the weight of person 2: 85 -Enter the weight of person 3: 65 -Enter the weight of person 4: 90 -Enter the weight of person 5: 60
+Person 5 had the lowest weight = 60kg Person 4 had the highest weight = 90kg
+
+Purpose:
+This exercise focuses on developing logical thinking, control flow, and an introduction to basic data analysis by identifying extreme values (maximum and minimum) from user input.
+
+Learning Progress:
+This project is part of my Python learning journey:
+-Basic logic and conditionals 
+-Loops and repetition 
+-Basic data analysis (max/min values)
+
+##BR Português-------------------
+
+Análise de Pesos
+
+Este programa em Python lê o peso de 5 pessoas e identifica qual foi o maior e o menor peso informados, além de indicar a posição (pessoa) correspondente.
+
+Conceitos praticados:
+-Estrutura de repetição (for)
+-Condicionais (if/else)
+-Comparação de valores (maior e menor) 
+-Acumulação de estado (variáveis que guardam resultados) 
+-Entrada de dados com input 
+-Noções básicas de análise de dados (identificação de valores máximo e mínimo)
+
+Como funciona:
+O programa solicita o peso de 5 pessoas, uma por vez. Durante a execução, ele:
+-Armazena o maior peso informado
+-Armazena o menor peso informado 
+-Registra qual pessoa teve o maior e o menor peso
+
+Exemplo de uso:
+Digite o peso da 1ª pessoa: 70 Digite o peso da 2ª pessoa: 85 Digite o peso da 3ª pessoa: 65 Digite o peso da 4ª pessoa: 90 Digite o peso da 5ª pessoa: 60
+A 5ª pessoa teve o menor peso = 60kg A 4ª pessoa teve o maior peso = 90kg
+
+Objetivo:
+Exercício focado no desenvolvimento da lógica de comparação, controle de fluxo e introdução à análise básica de dados, identificando valores extremos (maior e menor) em um conjunto de entradas.

@@ -1,0 +1,49 @@
+🔢 Sum and Count Numbers
+
+This program reads integer numbers entered by the user until a stop value (999) is provided.
+
+At the end, the program displays how many numbers were entered and the total sum of the values (excluding the stop value).
+
+🧠 How it works
+- The user enters integer numbers
+- The program continues running until the value 999 is entered
+- The value 999 is not included in the calculations
+- At the end, it displays:
+- Total number of inputs
+- Sum of all values
+
+🚀 Concepts Practiced
+- Loop structures (while)
+- Use of break
+- Sentinel value (flag)
+- Accumulators (sum and counter)
+- User input handling
+
+🎯 Goal
+Practice flow control and data handling using loops with a stopping condition.
+
+BR Português ------------------------------------------
+
+🔢 Soma e Contagem de Números
+
+Este programa lê números inteiros digitados pelo usuário até que seja informado um valor de parada (999).
+
+Ao final, o programa exibe a quantidade de números digitados e a soma total dos valores (desconsiderando o valor de parada).
+
+🧠 Como funciona
+- O usuário digita números inteiros
+- O programa continua executando até o valor 999 ser digitado
+- O valor 999 não é considerado nos cálculos
+- Ao final, são exibidos:
+- Quantidade de números digitados
+- Soma total dos valores
+
+🚀 Conceitos praticados
+- Estruturas de repetição (while)
+- Uso de break
+- Condição de parada (flag)
+- Acumuladores (soma e contador)
+- Entrada de dados
+
+🎯 Objetivo
+Praticar controle de fluxo e manipulação de dados utilizando laços de repetição com condição de parada.

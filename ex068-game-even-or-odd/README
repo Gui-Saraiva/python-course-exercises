@@ -1,0 +1,79 @@
+🎮 Even or Odd Game
+
+This program simulates an Even or Odd game between the user and the computer.
+
+The game continues as long as the player keeps winning. When the player loses, the program ends and displays the total number of consecutive wins.
+
+🧠 How it works
+The player chooses Even (P) or Odd (I)
+Then enters a number
+The computer generates a random number
+The sum determines the result:
+Even
+Odd
+If the player guesses correctly, the game continues
+If not, the game ends
+
+🚀 Concepts Practiced
+Loop structures (while)
+Use of break
+Stopping condition
+Input validation
+Arithmetic operators (%)
+Logical comparison
+Random number generation (randint)
+
+🎯 Goal
+Practice programming logic, flow control, and decision-making through a simple interactive game.
+
+🏆 Result
+At the end, the program displays:
+Total number of consecutive wins
+
+▶️ Example
+Par or Odd? [P or I]: P
+Enter a number: 3
+You played 3 and the computer played 2, total = 5.
+ODD! You lost!
+GAME OVER! 0 consecutive wins.
+
+BR Português---------------------------------
+
+🎮 Jogo de Par ou Ímpar
+
+Este programa simula um jogo de Par ou Ímpar entre o usuário e o computador.
+
+O jogo continua enquanto o jogador estiver vencendo. Quando perder, o programa é encerrado e mostra o total de vitórias consecutivas.
+
+🧠 Como funciona
+O jogador escolhe Par (P) ou Ímpar (I)
+Em seguida, digita um número
+O computador gera um número aleatório
+A soma dos dois números define o resultado:
+Par
+Ímpar
+Se o jogador acertar, continua jogando
+Se errar, o jogo termina
+
+🚀 Conceitos praticados
+Estruturas de repetição (while)
+Uso de break
+Condição de parada
+Validação de entrada
+Operadores aritméticos (%)
+Lógica de comparação
+Geração de números aleatórios (randint)
+
+🎯 Objetivo
+Praticar lógica de programação, controle de fluxo e tomada de decisão utilizando um jogo simples e interativo.
+
+🏆 Resultado
+Ao final, o programa exibe:
+Total de vitórias consecutivas do jogador
+
+▶️ Exemplo de uso
+Par ou Ímpar? [P ou I]: P
+Digite um número: 3
+Você jogou 3 o computador jogou 2, total = 5.
+DEU ÍMPAR! Perdeu!
+GAME OVER! 0 vitórias consecutivas.

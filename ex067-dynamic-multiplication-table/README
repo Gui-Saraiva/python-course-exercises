@@ -1,0 +1,44 @@
+📊 Dynamic Multiplication Table
+
+This program displays the multiplication table for multiple numbers entered by the user.
+
+The program keeps running until a negative number is entered, which stops the execution.
+
+🧠 How it works
+- The user enters an integer number
+- The program displays the multiplication table from 1 to 10 for that number
+- After that, the user can enter another number
+- The program only stops when a negative number is entered
+
+🚀 Concepts Practiced
+- Loop structures (while, for)
+- Use of break
+- Stopping condition
+- Nested loops
+- User input handling
+
+🎯 Goal
+Practice loop usage and flow control by generating multiple multiplication tables dynamically.
+
+BR Português ------------------------------------
+📊 Tabuada Dinâmica
+
+Este programa exibe a tabuada de vários números informados pelo usuário.
+
+O programa continua executando até que um número negativo seja digitado, encerrando a execução.
+
+🧠 Como funciona
+- O usuário digita um número inteiro
+- O programa exibe a tabuada de 1 a 10 para esse número
+- Após isso, o usuário pode digitar outro número
+- O programa só encerra quando um número negativo é informado
+
+🚀 Conceitos praticados
+- Estruturas de repetição (while, for)
+- Uso de break
+- Condição de parada
+- Laços aninhados
+- Entrada de dados
+
+🎯 Objetivo
+Praticar o uso de laços de repetição e controle de fluxo para gerar múltiplas tabuadas de forma dinâmica.

@@ -1,0 +1,64 @@
+📋 People Registration Program
+
+This program allows the user to register multiple people by entering gender and age, with input validation and error handling.
+At the end, it displays statistics based on the entered data.
+
+🧠 How it works
+The user enters gender (M or F)
+Then enters the age
+The program validates the inputs
+Asks if the user wants to continue
+Repeats until the user chooses to stop
+🚀 Features
+✔ Input validation for gender (M or F)
+✔ Error handling for invalid age input
+✔ Continuous loop for multiple entries
+✔ Clean and simple terminal interface
+
+📊 Final Output
+The program displays:
+Number of people aged 18 or older
+Number of men registered
+Number of women under 20 years old
+
+🎯 Goal
+Practice:
+Loop structures (while)
+Input validation
+Exception handling (try/except)
+Conditional logic
+Counters and statistics
+
+BR Português -------------------------------------
+
+📋 Cadastro de Pessoas
+
+Este programa permite cadastrar várias pessoas informando sexo e idade, com validação de dados e controle de entrada.
+Ao final, apresenta um resumo com estatísticas dos dados inseridos.
+
+🧠 Como funciona
+O usuário informa o sexo (M ou F)
+Depois informa a idade
+O programa valida os dados inseridos
+Pergunta se deseja continuar cadastrando
+O processo se repete até o usuário encerrar
+                 
+🚀 Funcionalidades
+✔ Validação de entrada para sexo (M ou F)
+✔ Tratamento de erro para idade (evita entrada inválida)
+✔ Loop contínuo de cadastro
+✔ Interface simples e organizada no terminal
+📊 Dados exibidos ao final
+
+O programa mostra:
+Quantas pessoas têm 18 anos ou mais
+Quantos homens foram cadastrados
+Quantas mulheres com menos de 20 anos foram cadastradas
+
+🎯 Objetivo
+Praticar:
+Estruturas de repetição (while)
+Validação de entrada de dados
+Tratamento de exceções (try/except)
+Lógica condicional
+Contadores e estatísticas

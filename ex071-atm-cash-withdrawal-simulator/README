@@ -1,0 +1,69 @@
+🏦 ATM Cash Withdrawal Simulator
+
+This project is a Python program that simulates the behavior of an ATM (Automated Teller Machine). The user enters a withdrawal amount, and the system calculates the number of banknotes needed.
+
+🚀 Features:
+
+Withdraw integer amounts
+Automatic calculation of available banknotes: $200, $100, $50, $20, $10, $5 and $1
+Option to perform multiple withdrawals
+⚠️ Input validation:
+
+Handles invalid input (letters or symbols)
+Prevents zero-value withdrawals
+Efficient logic using integer division (//) and modulus (%)
+🧠 Concepts Applied:
+
+Loops (while)
+Flow control (break, continue)
+Exception handling (try/except)
+Input validation
+Mathematical operators (// and %)
+Logical structuring of a complete program
+🎯 Project Goal:
+
+This project was developed to:
+Improve logical thinking
+Understand control flow in real-world scenarios
+Simulate a practical system
+Reinforce core Python fundamentals
+📈 Improvements: This version goes beyond the original exercise by including:
+
+Robust input validation
+Support for multiple withdrawals
+Extended set of banknotes
+BR Português --------------------------------
+
+🏦 Simulador de Caixa Eletrônico (ATM)
+
+Este projeto é um programa em Python que simula o funcionamento de um caixa eletrônico. O usuário informa um valor para saque e o sistema calcula automaticamente a quantidade de cédulas necessárias.
+
+🚀 Funcionalidades:
+
+Saque de valores inteiros
+Cálculo automático de cédulas disponíveis: R$200, R$100, R$50, R$20, R$10, R$5 e R$1
+Opção de realizar múltiplos saques
+Tratamento de erros:
+
+Entrada inválida (letras ou símbolos)
+Valor zero (não permitido)
+Lógica eficiente usando divisão inteira (//) e resto (%)
+🧠 Conceitos aplicados:
+
+Estruturas de repetição (while)
+Controle de fluxo (break, continue)
+Tratamento de exceções (try/except)
+Validação de entrada de dados
+Operadores matemáticos (// e %)
+Organização lógica de um programa completo
+🎯 Objetivo do projeto: Este exercício foi desenvolvido com foco em:
+
+Melhorar o raciocínio lógico
+Entender controle de fluxo em programas reais
+Simular um problema do mundo real
+Consolidar conceitos fundamentais de Python
+📈 Evolução: Este projeto foi além da proposta inicial do exercício, incluindo:
+
+Tratamento robusto de entradas inválidas
+Sistema de repetição para múltiplos saques
+Suporte a diversas cédulas

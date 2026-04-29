@@ -1,0 +1,76 @@
+🛒 Store Product Analysis System (CLI)
+
+This is a Python command-line program that allows users to register products and analyze purchase data in real time.
+
+🚀 Features
+✔ Register multiple products
+✔ Input validation for price
+✔ Accepts decimal values with comma or dot
+✔ Calculates total purchase value
+✔ Counts products over $1000
+✔ Identifies the cheapest product
+
+🧠 How it works
+The user enters a product name
+Enters the price
+The program validates the input
+Asks whether to continue
+Displays a summary at the end
+
+📊 Output
+The program displays:
+Total purchase value
+Number of products costing more than $1000
+Name of the cheapest product
+
+🎯 Goal
+Practice:
+
+Loop structures (while)
+Input validation
+Exception handling (try/except)
+Conditional logic
+Data tracking
+
+📌 Notes
+Runs in the terminal
+No external libraries required
+
+BR Português --------------------
+🛒 Sistema de Análise de Produtos (CLI)
+
+Este é um programa em Python executado no terminal que permite cadastrar produtos e analisar dados da compra em tempo real.
+
+🚀 Funcionalidades
+✔ Cadastro de múltiplos produtos
+✔ Validação de entrada para o preço
+✔ Aceita valores com vírgula ou ponto
+✔ Soma total da compra
+✔ Conta quantos produtos custam mais de R$1000
+✔ Identifica o produto mais barato
+
+🧠 Como funciona
+O usuário digita o nome do produto
+Informa o preço
+O programa valida a entrada
+Pergunta se deseja continuar
+Ao final, exibe um resumo
+📊 Saída do programa
+
+O programa mostra:
+Total gasto na compra
+Quantidade de produtos acima de R$1000
+Nome do produto mais barato
+
+🎯 Objetivo
+Praticar:
+
+Estruturas de repetição (while)
+Validação de entrada
+Tratamento de erros (try/except)
+Lógica condicional
+Controle de dados
+
+📌 Observações
+O programa roda no terminal
+Não utiliza bibliotecas externas

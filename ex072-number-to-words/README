@@ -1,0 +1,47 @@
+🔢 Number to Words (Python)
+
+A simple Python program that reads a number from 0 to 20 and returns its value written in full.
+
+🚀 Features
+User input handling
+Input validation (0 to 20 range)
+Error handling with try/except
+Tuple-based mapping for number conversion
+Colored terminal output
+
+🛠️ Tech Stack
+Python 3
+
+💡 Concepts Applied
+Loops (while)
+Exception handling
+Data structures (tuples)
+Input validation
+
+📌 Note
+This implementation goes beyond the original exercise by adding robust input validation and error handling.
+
+BR Português ------------------------------
+
+🔢 Número por Extenso (Python)
+
+Programa simples em Python que lê um número de 0 a 20 e exibe seu valor por extenso.
+
+🚀 Funcionalidades
+Leitura de entrada do usuário
+Validação de intervalo (0 a 20)
+Tratamento de erro (try/except)
+Uso de tupla para mapeamento de números
+Saída formatada com cores no terminal
+
+🛠️ Tecnologias
+Python 3
+
+💡 Conceitos aplicados
+Estruturas de repetição (while)
+Tratamento de exceções
+Estruturas de dados (tupla)
+Validação de entrada
+
+📌 Observação
+Implementação vai além do enunciado original, incluindo validação robusta de entrada e tratamento de erros.

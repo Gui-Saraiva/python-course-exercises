@@ -1,0 +1,35 @@
+🛒 Product Price Table in Python
+
+A simple Python project that stores product names and prices in a tuple and displays them in a formatted table.
+
+📌 Objective
+Create a single tuple containing product names and their respective prices in sequence. Then, display the data in a well-organized tabular format.
+
+🧠 Concepts Used
+-Tuples (tuple)
+-Loops (for)
+-Index manipulation (range, len)
+-Conditional statements (if)
+                         
+String formatting:
+-Alignment (:<, :^)
+-Formatting floats (.2f)
+
+BR Português ----------------------------
+
+🛒 Tabela de Preços de Produtos em Python
+
+Projeto simples em Python que armazena nomes de produtos e seus preços em uma tupla e exibe os dados em formato tabular.
+
+📌 Objetivo
+Criar uma tupla única com nomes de produtos e seus respectivos preços, em sequência. Ao final, exibir os dados organizados em forma de tabela.
+
+🧠 Conceitos utilizados
+-Tuplas (tuple)
+-Laços de repetição (for)
+-Manipulação de índices (range, len)
+-Estruturas condicionais (if)
+                          
+Formatação de strings:
+-Alinhamento (:<, :^)
+-Formatação de números (.2f)

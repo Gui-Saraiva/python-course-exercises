@@ -1,0 +1,41 @@
+🔢 Tuple Input Analysis in Python
+
+A simple Python project that reads user input, stores values in a tuple, and performs basic analysis.
+
+📌 Objective:
+Read four integer values from the user and store them in a tuple. Then, the program:
+-Counts how many times the number 9 appears
+-Finds the position of the first occurrence of number 3
+-Displays all even numbers
+
+🧠 Concepts Used:
+-Tuples (tuple)
+-User input (input)
+-Conditional statements (if)
+-Loops (for)
+        
+Built-in functions:
+-count()
+-index()
+
+BR Português ----------------------------------
+
+🔢 Análise de Tupla com Entrada do Usuário em Python
+
+Projeto simples em Python que lê valores digitados pelo usuário, armazena em uma tupla e realiza análises básicas.
+
+📌 Objetivo
+Ler quatro números inteiros e armazená-los em uma tupla. Depois disso, o programa:
+-Conta quantas vezes o número 9 aparece
+-Mostra a posição do primeiro valor 3
+-Exibe todos os números pares
+        
+🧠 Conceitos utilizados:
+-Tuplas (tuple)
+-Entrada de dados (input)
+-Estruturas condicionais (if)
+-Laços de repetição (for)
+                     
+Funções nativas:
+-count()
+-index()

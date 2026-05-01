@@ -1,0 +1,41 @@
+🏆 Brazilian Championship Table in Python
+
+A simple Python project that uses tuples, data slicing, and built-in functions to manipulate a football league table.
+
+📌 Objective
+Simulate the Brazilian Championship table with the top 20 teams and perform some operations:
+-Display the top 5 teams
+-Display the last 4 teams
+-Show teams in alphabetical order
+-Find the position of Grêmio in the table
+
+🧠 Concepts Used:
+-Tuples (tuple)
+-Loops (for)
+-Sequence slicing (slice)
+        
+Built-in functions:
+-sorted()
+-index()
+
+BR Português----------------------------
+
+🏆 Tabela do Campeonato Brasileiro em Python
+
+Projeto simples em Python que trabalha com tuplas, fatiamento de dados e métodos nativos da linguagem para manipular informações de uma tabela de classificação.
+
+📌 Objetivo:
+Simular a tabela do Campeonato Brasileiro com os 20 primeiros colocados e realizar algumas operações:
+-Mostrar os 5 primeiros colocados
+-Mostrar os 4 últimos colocados
+-Exibir os times em ordem alfabética
+-Informar a posição do Grêmio na tabela
+        
+🧠 Conceitos utilizados:
+-Tuplas (tuple)
+-Laços de repetição (for)
+-Fatiamento de sequência (slice)
+                     
+Funções nativas:
+-sorted()
+-index()

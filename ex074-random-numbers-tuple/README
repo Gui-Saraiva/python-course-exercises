@@ -1,0 +1,39 @@
+🎲 Random Numbers Tuple in Python
+
+A simple Python project that generates random numbers and stores them in a tuple, then analyzes the data.
+
+📌 Objective:
+Generate 5 random numbers and store them in a tuple. After that, the program:
+-Displays all generated numbers
+-Identifies the largest number
+-Identifies the smallest number
+
+🧠 Concepts Used:
+-Tuples (tuple)
+-Loops (for)
+-Random number generation (random.randint)
+        
+Built-in functions:
+-max()
+-min()
+
+BR Português --------------------------------------------
+        
+🎲 Números Aleatórios em Tupla com Python
+
+Projeto simples em Python que gera números aleatórios, armazena em uma tupla e analisa os valores.
+
+📌 Objetivo:
+Gerar 5 números aleatórios e armazená-los em uma tupla. Depois disso, o programa:
+-Exibe todos os números gerados
+-Identifica o maior número
+-Identifica o menor número
+        
+🧠 Conceitos utilizados:
+-Tuplas (tuple)
+-Laços de repetição (for)
+-Geração de números aleatórios (random.randint)
+
+Funções nativas:
+-max()
+-min()

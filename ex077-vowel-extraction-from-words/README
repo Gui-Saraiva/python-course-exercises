@@ -1,0 +1,39 @@
+🔤 Vowel Extraction from Words in Python
+
+A simple Python project that stores words in a tuple and extracts the vowels from each word.
+
+📌 Objective
+
+Create a tuple containing multiple words. Then, for each word, the program:
+-Displays the word
+-Identifies and prints all vowels present in it
+
+🧠 Concepts Used
+-Tuples (tuple)
+-Loops (for)
+-Nested loops
+-Conditional statements (if)
+                        
+String manipulation:
+-Case conversion (upper())
+
+BR Português -----------------------------
+
+🔤 Extração de Vogais em Palavras com Python
+
+Projeto simples em Python que armazena palavras em uma tupla e extrai as vogais de cada uma.
+
+📌 Objetivo
+
+Criar uma tupla com várias palavras. Depois disso, para cada palavra, o programa:
+-Exibe a palavra
+-Identifica e mostra todas as vogais presentes
+                        
+🧠 Conceitos utilizados
+-Tuplas (tuple)
+-Laços de repetição (for)
+-Laços aninhados
+-Estruturas condicionais (if)
+                          
+Manipulação de strings:
+-Conversão de maiúsculas (upper())
